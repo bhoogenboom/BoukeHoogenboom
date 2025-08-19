@@ -1,0 +1,13 @@
+# Authors
+
+Bouke Hoogenboom:
+  name        : "Bouke Hoogenboom"
+  bio         : "Run. Lift. Code."
+  avatar      : "/assets/images/bio-photo-1.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@boukehoogenboom.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://Boukehoogenboom.nl"
