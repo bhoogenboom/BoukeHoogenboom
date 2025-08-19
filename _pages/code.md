@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /code/
+permalink: /BoukeHoogenboom/code/
 title: "Code."
 header:
   overlay_image: /assets/images/code-teaser.jpg
