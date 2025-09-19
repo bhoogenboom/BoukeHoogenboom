@@ -21,7 +21,7 @@ title_separator          : "@"
 subtitle                 : "Run. Lift. Code." # site tagline that appears below site title in masthead
 name                     : "Bouke Hoogenboom"
 description              : "Run. Lift. Code."
-url                      : "https://bhoogenboom.github.io/BoukeHoogenboom" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://boukehoogenboom.nl" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bhoogenboom/BoukeHoogenboom" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -125,9 +125,6 @@ author:
 # Site Footer
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/BoukeHoogenboom"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/bouke-hoogenboom-823a5272/"
@@ -274,9 +271,10 @@ defaults:
       classes: wide
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      enable_copy_code_button: true
   # _pages
   - scope:
       path: ""
