@@ -1,7 +1,7 @@
 ---
 layout: home
 entries_layout: grid
-permalink: /BoukeHoogenboom/run/
+permalink: /run/
 title: "Run."
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
