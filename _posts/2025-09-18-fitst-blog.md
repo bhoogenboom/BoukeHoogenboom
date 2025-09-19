@@ -19,3 +19,4 @@ My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and
 For me the word *Code* represents coding in the broadest sense, from working with Infrastructure as Code (IaC) in the Cloud to home automation projects or working with AI.
 
 I'd like to share my experiences and insights on this blog, hoping to inspire and assist others on their own journeys.
+
