@@ -43,6 +43,8 @@
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
   (twitter, $twitter-color),
+  (whatsapp, $whatsapp-color),
+  (instagram, $instagram-color),
   (x, $x-color);
 
   @each $buttoncolor, $color in $buttoncolors {
