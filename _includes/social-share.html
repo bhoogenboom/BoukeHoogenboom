@@ -7,8 +7,10 @@
 
   <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp" aria-label="Share on WhatsApp" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp">
     <i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span>
+  </a>
 
   <a href="https://instagram.com/" class="btn btn--instagram" aria-label="Share on Instagram" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Instagram">
     <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span> Instagram</span>
+  </a>
 
 </section>
