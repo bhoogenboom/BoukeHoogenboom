@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to my personal blog"
 header:
-  teaser: "/assets/images/Binary-CodeRLC.png"
+  teaser: "/assets/images/Binary-CodeRLC-smallest.png"
 categories: 
   - Code
   - Run
