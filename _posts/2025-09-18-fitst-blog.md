@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to my personal blog"
+title:  "Welcome to my blog"
 header:
-  teaser: "/assets/images/Logo_RLC_500x300.png"
+  teaser: "/assets/images/Logo_RLC_333x200.png"
 categories: 
   - Code
   - Run
