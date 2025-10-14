@@ -4,8 +4,9 @@ entries_layout: grid
 permalink: /home/
 title: ""
 header:
-  overlay_image: /assets/images/BH-run-berg-teaser.jpg
+  overlay_image: /assets/images/BH-run-berg.jpg
 ---
+# Wecome to my blog!
 
 I would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. 
 By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud. 
