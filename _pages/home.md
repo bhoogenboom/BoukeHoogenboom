@@ -6,21 +6,21 @@ header:
   overlay_image: /assets/images/Logo_Trans_Trimmed.png
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
-  alt: "run"
+  alt: ""
   title: "Run."
   excerpt: "Running..."
   url: "/run/"
   btn_class: "btn--primary"
   btn_label: "Discover"
 - image_path: /assets/images/lift-teaser.jpg
-  alt: "lift"
+  alt: ""
   title: "Lift."
   excerpt: "Lifting..."
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Discover"
 - image_path: /assets/images/code-teaser.jpg
-  alt: "code"
+  alt: ""
   title: "Code."
   excerpt: "Coding..."
   url: "/code/"
