@@ -1,7 +1,7 @@
 ---
 layout: splash
 entries_layout: grid
-permalink: /
+permalink: /home/
 title: ""
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
