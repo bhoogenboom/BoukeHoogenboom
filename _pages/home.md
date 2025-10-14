@@ -1,6 +1,5 @@
 ---
 layout: splash
-entries_layout: grid
 permalink: /home/
 title: ""
 header:
@@ -15,5 +14,28 @@ My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and
 For me the word **Code** represents coding in the broadest sense, from working with Infrastructure as Code (IaC) in the Cloud to home automation projects or working with AI.
 
 I'd like to share my experiences and insights on this blog, hoping to inspire and assist others on their own journeys.
+
+feature_row:
+  - image_path: /assets/images/scraping.jpg
+    alt: "run"
+    title: "Run."
+    excerpt: "Running..."
+    url: "/run/"
+    btn_class: "btn--primary"
+    btn_label: "Discover"
+  - image_path: /assets/images/lift-teaser.jpg
+    alt: "lift"
+    title: "Lift."
+    excerpt: "Lifting..."
+    url: "/lift/"
+    btn_class: "btn--primary"
+    btn_label: "Discover"
+  - image_path: /assets/images/code-teaser.jpg
+    alt: "code"
+    title: "Code."
+    excerpt: "Coding..."
+    url: "/code/"
+    btn_class: "btn--primary"
+    btn_label: "Discover"
 
 ---
