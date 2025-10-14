@@ -19,7 +19,7 @@ feature_row:
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Discover"
-- image_path: /assets/images/code-teaser.jpg
+- image_path: /assets/images/Binary-Code-RLC-500x300.png
   alt: ""
   title: "Code."
   excerpt: "Coding..."
