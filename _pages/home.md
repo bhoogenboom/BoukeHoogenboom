@@ -5,7 +5,7 @@ title: ""
 header:
   overlay_image: /assets/images/Logo_Trans_Trimmed.png
 feature_row:
-- image_path: /assets/images/BH-run-berg-teaser-500x300
+- image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
   title: "Run."
   excerpt: "Running..."
