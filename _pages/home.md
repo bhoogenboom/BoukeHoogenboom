@@ -3,9 +3,9 @@ layout: splash
 permalink: /home/
 title: ""
 header:
-  overlay_image: /assets/images/BH-run-berg.jpg
+  overlay_image: /assets/images/Logo_Trans_Trimmed.png
 feature_row:
-- image_path: /assets/images/scraping.jpg
+- image_path: /assets/images/BH-run-berg-teaser-500x300
   alt: "run"
   title: "Run."
   excerpt: "Running..."
