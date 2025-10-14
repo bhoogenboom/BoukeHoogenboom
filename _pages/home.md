@@ -12,7 +12,7 @@ feature_row:
   url: "/run/"
   btn_class: "btn--primary"
   btn_label: "Discover"
-- image_path: /assets/images/lift-teaser.jpg
+- image_path: /assets/images/Lift-500x300.jpg
   alt: ""
   title: "Lift."
   excerpt: "Lifting..."
