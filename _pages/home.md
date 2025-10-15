@@ -6,30 +6,30 @@ header:
   overlay_image: /assets/images/Logo_Trans_Trimmed.png
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
-  alt: ""
+  alt: "run"
   title: "Run."
-  excerpt: "Running..."
+  excerpt: ""
   url: "/run/"
   btn_class: "btn--primary"
   btn_label: "Discover"
 - image_path: /assets/images/Lift-500x300.jpg
-  alt: ""
+  alt: "lift"
   title: "Lift."
-  excerpt: "Lifting..."
+  excerpt: ""
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Discover"
 - image_path: /assets/images/Binary-Code-RLC-500x300.png
-  alt: ""
+  alt: "code"
   title: "Code."
-  excerpt: "Coding..."
+  excerpt: ""
   url: "/code/"
   btn_class: "btn--primary"
   btn_label: "Discover"
 ---
-# Hi I'm Bouke, welcome to my blog!
+# Hi, welcome to my blog!
 
-I would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. 
+I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. 
 By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud. 
 
 My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and you can also regularly find me on the basketball court.
