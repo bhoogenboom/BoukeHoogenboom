@@ -1,7 +1,7 @@
 ---
 title:  "Azure Landing Zones, Tailored with Archetypes for your organization's needs."
 header:
-  teaser: "/assets/images/Binary-Code-RLC-500x300.jpg"
+  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
 categories: 
   - Code
 tags:
