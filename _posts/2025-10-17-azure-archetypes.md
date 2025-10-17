@@ -18,7 +18,7 @@ A landing zone is essentially the foundation for your cloud environment. Think o
 One of the most powerful aspects of this framework is the modular architecture built around archetypes. These archetypes are essentially predefined configurations that meet common organizational needs. Whether you are a startup, a medium-sized company, or a global enterprise, there is always an archetype that fits.
 Some archetypes focus on platform operations, others on application landing zones. The beauty is that they are adaptable and can be combined based on your priorities.
 
-For example, as a platform component, you can choose a Security platform landing zone when security is your top priority. You might even set up your own SOC, where these specialists have a distinct set of rights and resources to keep the environment under control.
+>For example, as a platform component, you can choose a Security platform landing zone when security is your top priority. You might even set up your own SOC, where these specialists have a distinct set of rights and resources to keep the environment under control.
 
 These are our three basic application landing zones:
 
