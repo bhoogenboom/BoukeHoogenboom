@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to my blog"
 header:
-  teaser: "/assets/images/Logo_RLC_333x200.png"
+  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
 categories: 
   - Code
   - Run
