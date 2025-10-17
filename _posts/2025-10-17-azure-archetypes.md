@@ -22,9 +22,9 @@ Some archetypes focus on platform operations, others on application landing zone
 
 These are our three basic application landing zones:
 
-* Corporate: An extension of the on-premises network with connectivity via a private connection, without direct access to the internet.
-* Online-Isolated: No network connectivity to on-premises or Azure resources, only a direct connection to the web.
-* Online-Connected: A combination of the two above, allowing resources to be accessed via the internal network as well as connecting to an API or a SaaS service.
+* **Corporate:** An extension of the on-premises network with connectivity via a private connection, without direct access to the internet.
+* **Online-Isolated:** No network connectivity to on-premises or Azure resources, only a direct connection to the web.
+* **Online-Connected:** A combination of the two above, allowing resources to be accessed via the internal network as well as connecting to an API or a SaaS service.
 
 Of course, you may want to add another variant, for example, for using AI or Sovereign Landing Zone to meet specific requirements without interfering with other workloads or granting access to unwanted sources.
 
