@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: home
 permalink: /code/
 title: "Code."
 header:

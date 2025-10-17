@@ -15,9 +15,13 @@ Upcomming Run's being the 'Station-to-Station' run between the train station in 
 
 When I was enlisted with the Dutch Army I ran quite a bit as you can imagine. Also combined with all different sorts of exercises and training programs. After my adventure I kept running short distances between 5K and 12K.
 
-## Triathlon
-
 ## Personal best
+
+|Distance|Time|Date|
+|-|-|-|
+|4EM|00:29:42|12-10-2025|
+|10EM|00:00:00|00-00-0000|
+|Half Marathon|01:42:05|08-06-2024
 
 ## Recent Run's
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7759071/latest-rides/9ef32ac248ca7e9276c69e06a059740f6a95969d'></iframe>
