@@ -32,4 +32,5 @@ By making this separation based on archetypes, policies can be enforced that are
 
 # What I have learned.
 The best cloud projects start with collaboration. When IT, security, and business are involved from the beginning, the landing zone becomes a strategic tool rather than a technical puzzle.
+
 Another important lesson is the value of automation. By using infrastructure-as-code, we can consistently implement and manage your landing zone across different environments. This reduces errors, speeds up delivery, and makes it easier to adapt as your needs change.
