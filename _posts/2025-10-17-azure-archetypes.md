@@ -5,7 +5,7 @@ header:
 categories: 
   - Code
 tags:
-  - Landing Zones, Archetypes
+  - Landing Zone, Archetypes
 ---
 # Introduction and Point-of-view.
 As a Cloud Consultant, I help organizations transition to the cloud. What I often see is that the decision to move to the cloud is made quickly. But the next question is just as important: how do you do this in a smart, secure, and future-proof way?
@@ -14,7 +14,7 @@ Fortunately, Microsoft provides clear guidance: the **Cloud Adoption Framework**
 # What is a landing zone?
 A landing zone is essentially the foundation for your cloud environment. Think of it as the base of a house. You could start building right away, but without a solid foundation, everything risks collapsing over time. You also want to be able to use utilities like gas, water, and electricity in your house. Similarly, you ensure that the landing zone and everything you do in the cloud is secure, organized, and well-structured. Once this is set up, you can literally “land” your workloads here and connect them to your existing infrastructure.
 
-# Archetypes, Modular Architecture, and Customization for Your Cloud Strategy
+# Archetypes, Modular Architecture, and Customization for Your Cloud Strategy.
 One of the most powerful aspects of this framework is the modular architecture built around archetypes. These archetypes are essentially predefined configurations that meet common organizational needs. Whether you are a startup, a medium-sized company, or a global enterprise, there is always an archetype that fits.
 Some archetypes focus on platform operations, others on application landing zones. The beauty is that they are adaptable and can be combined based on your priorities.
 
