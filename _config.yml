@@ -288,3 +288,27 @@ defaults:
         overlay_color: "#000"
         overlay_filter: "0.5"
         overlay_image: /assets/images/code-teaser.jpg
+  # _run
+  - scope:
+      path: ""
+      type: run
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _lift
+  - scope:
+      path: ""
+      type: lift
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single
+      author_profile: false
+      share: true
