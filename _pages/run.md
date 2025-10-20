@@ -4,6 +4,7 @@ layout: single
 permalink: /run/
 entries_layout: grid
 classes: wide
+author_profile: true
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
 ---
