@@ -293,7 +293,7 @@ defaults:
       path: ""
       type: run
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true
   # _lift
@@ -301,7 +301,7 @@ defaults:
       path: ""
       type: lift
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true
   # _code
@@ -309,6 +309,6 @@ defaults:
       path: ""
       type: code
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true

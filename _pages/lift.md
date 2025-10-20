@@ -1,5 +1,5 @@
 ---
-title: Lift.
+title: "Lift."
 layout: lift
 permalink: /lift/
 collection: lift
