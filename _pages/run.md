@@ -1,8 +1,10 @@
 ---
-layout: home
-entries_layout: grid
+title: Run.
+layout: collection
 permalink: /run/
-title: "Run."
+collection: run
+entries_layout: grid
+classes: wide
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
 ---
