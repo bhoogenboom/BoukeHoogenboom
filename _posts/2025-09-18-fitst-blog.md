@@ -2,7 +2,7 @@
 title:  "Welcome to my blog"
 header:
   teaser: "/assets/images/Binary-Code-RLC-500x300.png"
-categories: code
+category: code
 tags: Welcome
 ---
 
