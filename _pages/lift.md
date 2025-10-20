@@ -1,6 +1,6 @@
 ---
-title: "Lift."
-layout: lift
+title: Lift.
+layout: collection
 permalink: /lift/
 collection: lift
 entries_layout: grid
