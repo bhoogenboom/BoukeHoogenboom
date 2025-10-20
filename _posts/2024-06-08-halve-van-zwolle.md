@@ -2,6 +2,7 @@
 title:  "Halve Marathon van Zwolle"
 header:
   teaser: "/assets/images/BH-run-berg-teaser-500x300.jpg"
+collection: run
 categories: 
   - Run
 tags:
