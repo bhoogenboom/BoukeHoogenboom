@@ -1,6 +1,6 @@
 ---
 title: Code.
-layout: single
+layout: categories
 permalink: /code/
 entries_layout: grid
 classes: wide
