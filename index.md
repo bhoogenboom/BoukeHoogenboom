@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /home/
+permalink: /
 title: ""
 header:
   overlay_image: /assets/images/Logo_Trans_Trimmed.png
