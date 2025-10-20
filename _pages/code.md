@@ -1,17 +1,10 @@
 ---
-layout: home
+title: Code.
+layout: collection
 permalink: /code/
-title: "Code."
+collection: code
+entries_layout: grid
+classes: wide
 header:
   overlay_image: /assets/images/code-teaser.jpg
----
-
-Test....
-
----
-
-### Links:
-
-- [Azure](https://azure.com/)
-
 ---
