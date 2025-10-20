@@ -301,8 +301,8 @@ defaults:
       path: ""
       type: lift
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
       share: true
   # _code
   - scope:
