@@ -1,8 +1,7 @@
 ---
 title: Code.
-layout: collection
+layout: single
 permalink: /code/
-collection: code
 entries_layout: grid
 classes: wide
 header:

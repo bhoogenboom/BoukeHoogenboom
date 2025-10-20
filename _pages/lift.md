@@ -1,8 +1,7 @@
 ---
 title: Lift.
-layout: collection
+layout: single
 permalink: /lift/
-collection: lift
 entries_layout: grid
 classes: wide
 header:
