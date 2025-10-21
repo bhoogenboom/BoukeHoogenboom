@@ -267,7 +267,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: posts
       classes: wide
       author_profile: false
       read_time: true
