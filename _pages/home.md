@@ -28,7 +28,6 @@ feature_row:
   btn_label: "Discover"
 ---
 # Hi, welcome to my blog!
-
 I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. 
 By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud. 
 
