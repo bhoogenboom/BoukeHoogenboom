@@ -2,7 +2,7 @@
 title:  "Azure Landing Zones, Tailored with Archetypes for your organization's needs."
 header:
   teaser: "/assets/images/Binary-Code-RLC-500x300.png"
-author_profile: false
+author_profile: true
 read_time: true
 comments: true
 share: true
@@ -10,8 +10,6 @@ related: true
 category: code
 tags: LandingZone Archetypes
 ---
-
-# Azure Landing Zones, Tailored with Archetypes for your organization's needs.
 
 ### Introduction and Point-of-view.
 As a Cloud Consultant, I help organizations transition to the cloud. What I often see is that the decision to move to the cloud is made quickly. But the next question is just as important: how do you do this in a smart, secure, and future-proof way?
