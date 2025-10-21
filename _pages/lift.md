@@ -4,6 +4,7 @@ layout: single
 permalink: /lift/
 entries_layout: grid
 classes: wide
+category: lift
 header:
   overlay_image: /assets/images/lift-teaser.jpg
 ---

@@ -7,7 +7,6 @@ read_time: true
 comments: true
 share: true
 related: true
-category: code
 tags: LandingZone Archetypes
 ---
 
