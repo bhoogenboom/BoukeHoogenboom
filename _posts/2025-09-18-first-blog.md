@@ -1,9 +1,9 @@
 ---
 title:  "Welcome to my blog"
-header:
-  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
 category: code
 tags: Welcome
+header:
+  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
 ---
 
 I would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. 
