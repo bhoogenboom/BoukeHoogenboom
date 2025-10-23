@@ -1,10 +1,9 @@
 ---
 title: Code.
-layout: category
+layout: collection
 permalink: /code/
-entries_layout: grid
-classes: wide
 collection: code
+entries_layout: grid
 header:
   overlay_image: /assets/images/code-teaser.jpg
 ---

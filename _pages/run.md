@@ -1,6 +1,8 @@
 ---
 title: Run.
+layout: collection
 permalink: /run/
+collection: run
 entries_layout: grid
 collection: run
 header:

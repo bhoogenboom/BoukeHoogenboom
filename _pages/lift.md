@@ -1,9 +1,9 @@
 ---
 title: Lift.
-layout: single
+layout: collection
 permalink: /lift/
+collection: lift
 entries_layout: grid
-classes: wide
 collection: lift
 header:
   overlay_image: /assets/images/lift-teaser.jpg
