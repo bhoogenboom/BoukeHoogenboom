@@ -3,8 +3,6 @@ title: Run.
 layout: collection
 permalink: /run/
 collection: run
-entries_layout: grid
-collection: run
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
 ---
