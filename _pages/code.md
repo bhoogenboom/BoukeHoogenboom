@@ -2,7 +2,7 @@
 title: Code.
 permalink: /code/
 collection: code
-layout: grif
+entries_layout: grid
 header:
   overlay_image: /assets/images/code-teaser.jpg
 ---
