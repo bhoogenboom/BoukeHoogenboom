@@ -1,6 +1,5 @@
 ---
 title: Lift.
-layout: collection
 permalink: /lift/
 collection: lift
 header:

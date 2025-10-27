@@ -1,6 +1,5 @@
 ---
 title: Run.
-layout: collection
 permalink: /run/
 collection: run
 header:

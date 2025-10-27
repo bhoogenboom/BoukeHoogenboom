@@ -291,7 +291,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-related
       classes: wide
       entries_layout: grid
       author_profile: false
