@@ -279,13 +279,12 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: home
+      layout: single
       classes: wide
       entries_layout: grid
       author_profile: false
       related: true
       related_by: categories
-      related_layout: archive-single
       enable_copy_code_button: true
       header:
         overlay_color: "#000"
