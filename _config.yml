@@ -251,6 +251,17 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  run:
+    output: true
+    permalink: /:collection/:path/
+  lift:
+    output: true
+    permalink: /:collection/:path/
+  code:
+    output: true
+    permalink: /:collection/:path/
+
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -284,10 +295,35 @@ defaults:
       entries_layout: grid
       author_profile: false
       related: true
-      related_by: categories
+      related_from: categories
       enable_copy_code_button: true
       header:
         overlay_color: "#000"
         overlay_filter: "0.5"
         overlay_image: /assets/images/code-teaser.jpg
+  # _run
+  - scope:
+      path: ""
+      type: run
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _lift
+  - scope:
+      path: ""
+      type: lift
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
