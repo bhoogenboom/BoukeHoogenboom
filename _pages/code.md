@@ -3,7 +3,7 @@ title: Code.
 permalink: /code/
 related: true
 related_by: categories tags
-layout: categories
+layout: category
 header:
   overlay_image: /assets/images/code-teaser.jpg
 ---
