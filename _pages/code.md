@@ -1,9 +1,9 @@
 ---
 title: Code.
-permalink: /codes/
+permalink: /code/
 related: true
 related_by: categories tags
-layout: category
+layout: post
 header:
   overlay_image: /assets/images/code-teaser.jpg
 ---
