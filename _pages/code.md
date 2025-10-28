@@ -1,6 +1,7 @@
 ---
 title: Code.
 permalink: /code/
+category: code
 related: true
 related_by: categories tags
 header:

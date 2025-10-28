@@ -1,7 +1,7 @@
 ---
 title: Run.
 permalink: /run/
-collection: run
+category: run
 entries_layout: grid
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
