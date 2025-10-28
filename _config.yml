@@ -296,7 +296,6 @@ defaults:
       entries_layout: grid
       author_profile: false
       related: true
-      related_by: Categories
       enable_copy_code_button: true
       header:
         overlay_color: "#000"
