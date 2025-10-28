@@ -3,6 +3,9 @@ title: Run.
 permalink: /run/
 category: run
 entries_layout: grid
+classes: wide
+related: true
+related_by: categories tags
 header:
   overlay_image: /assets/images/BH-run-berg-teaser.jpg
 ---
