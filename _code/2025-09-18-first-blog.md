@@ -1,6 +1,5 @@
 ---
 title:  "Welcome to my blog"
-category: code
 collection: code
 tags: Welcome
 header:

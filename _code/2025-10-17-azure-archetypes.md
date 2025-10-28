@@ -1,6 +1,5 @@
 ---
 title:  "Azure Landing Zones, Tailored with Archetypes for your organization's needs."
-category: code
 collection: code
 tags: LandingZone Archetypes
 header:
