@@ -2,7 +2,7 @@
 title: Run.
 layout: collection
 permalink: /run/
-category: run
+collection: run
 entries_layout: grid
 classes: wide
 related: true
