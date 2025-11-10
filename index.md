@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: ""
 header:
-  image: /assets/images/CleanDesk.jpg
+  overlay_image: /assets/images/CleanDesk.jpg
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
