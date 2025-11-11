@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title: ""
 header:
   image: /assets/images/test.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
