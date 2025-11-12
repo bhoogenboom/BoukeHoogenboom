@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 permalink: /
 header:
   overlay_image: /assets/images/CleanDesk.jpg
