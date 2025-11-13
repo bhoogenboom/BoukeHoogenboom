@@ -8,17 +8,19 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Custom styles for full height hero image */
+/* Custom styles for properly scaled hero image */
 .page__hero--overlay {
-  min-height: 60vh !important; /* Increase height to show more of the image */
-  display: flex !important;
-  align-items: center !important;
+  min-height: 50vh !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
 }
 
-/* Alternative: If you want to see the entire image without cropping */
+/* For full image scaling without cropping */
 .full-height-image .page__hero--overlay {
-  min-height: 70vh !important;
-  background-size: contain !important; /* This will show the full image */
+  min-height: 60vh !important;
+  background-size: contain !important; /* Shows entire image, may have letterboxing */
   background-repeat: no-repeat !important;
   background-position: center !important;
+  background-color: #1a1a1a !important; /* Dark background for letterbox areas */
 }
