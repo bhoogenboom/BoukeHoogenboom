@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+classes: full-height-image
 header:
   overlay_image: /assets/images/CleanDesk.jpg
   overlay_filter: 0.1
