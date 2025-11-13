@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  image: /assets/images/CleanDeskXL.jpg
+  image: /assets/images/CleanDesk.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
