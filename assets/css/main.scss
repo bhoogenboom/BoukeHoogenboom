@@ -7,20 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-/* Custom styles for properly scaled hero image */
-.page__hero--overlay {
-  min-height: 50vh !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-}
-
-/* For full image scaling without cropping */
-.full-height-image .page__hero--overlay {
-  min-height: 60vh !important;
-  background-size: contain !important; /* Shows entire image, may have letterboxing */
-  background-repeat: no-repeat !important;
-  background-position: center !important;
-  background-color: #1a1a1a !important; /* Dark background for letterbox areas */
-}
