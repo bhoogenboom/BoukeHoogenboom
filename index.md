@@ -1,11 +1,10 @@
 ---
-layout: home
+layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/CleanDesk.jpg
+  overlay_image: /assets/images/CleanDeskXL.jpg
   overlay_filter: 0
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-classes: full-image
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
