@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Bouke Hoogenboom"
-  avatar           : "/assets/images/bio-photo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Ikke-zwart.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Run. Lift. Code."
   location         : "Lemelerveld, NL"
   # email            : "mail@boukehoogenboom.nl"
