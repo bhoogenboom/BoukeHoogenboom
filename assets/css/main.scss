@@ -7,3 +7,26 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Remove teaser image size limitations that are restricting header images */
+.archive__item-teaser {
+  max-height: none !important; /* Remove the default 200px/120px height restrictions */
+  
+  img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+}
+
+/* Override responsive breakpoint restrictions for teaser images */
+.list__item .archive__item-teaser,
+.archive .archive__item-teaser {
+  @include breakpoint($small) {
+    max-height: none !important; /* Override 200px limit on small screens */
+  }
+
+  @include breakpoint($medium) {
+    max-height: none !important; /* Override 120px limit on medium screens */
+  }
+}
