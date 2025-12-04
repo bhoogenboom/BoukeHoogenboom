@@ -10,24 +10,15 @@ feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
   title: "Run."
-  excerpt: ""
   url: "/run/"
-  btn_class: "btn--primary"
-  btn_label: "Discover"
 - image_path: /assets/images/Lift-500x300.jpg
   alt: "lift"
   title: "Lift."
-  excerpt: ""
   url: "/lift/"
-  btn_class: "btn--primary"
-  btn_label: "Discover"
 - image_path: /assets/images/Binary-Code-RLC-500x300.png
   alt: "code"
   title: "Code."
-  excerpt: ""
   url: "/code/"
-  btn_class: "btn--primary"
-  btn_label: "Discover"
 ---
 # Hi, welcome to my blog!
 
