@@ -27,7 +27,7 @@
         {% endif %}
         <div class="archive__item-body">
           {% if f.url %}
-            <p style="text-align: center;"><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}" style="font-size: 1em;">{{ f.title | default: f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            <p style="text-align: center; margin-top: 1.5em;"><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}" style="font-size: 1em;">{{ f.title | default: f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>
