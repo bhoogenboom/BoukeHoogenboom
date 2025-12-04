@@ -9,18 +9,21 @@ header:
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
+  title: " "
   excerpt: ""
   url: "/run/"
   btn_class: "btn--primary"
   btn_label: "Run."
 - image_path: /assets/images/Lift-500x300.jpg
   alt: "lift"
+  title: " "
   excerpt: ""
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Lift."
 - image_path: /assets/images/Binary-Code-RLC-500x300.png
   alt: "code"
+  title: " "
   excerpt: ""
   url: "/code/"
   btn_class: "btn--primary"
