@@ -221,7 +221,7 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+    //  max-height: 200px;
     }
 
     @include breakpoint($medium) {
