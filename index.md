@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: ""
 header:
-  overlay_image: /assets/images/CleanDesk.jpg
+  overlay_image: /assets/images/CleanDesk.png
   overlay_filter: 0.1
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 feature_row:
