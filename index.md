@@ -38,4 +38,5 @@ My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and
 
  I'd like to share my experiences and insights on this blog, hoping to inspire and assist others on their own journeys.
 
-**Have fun![#text-alignment]**{: style="text-align: center"}
+**Have fun!**
+{: style="text-align: center;"}
