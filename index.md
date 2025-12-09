@@ -6,8 +6,7 @@ header:
   overlay_image: /assets/images/CleanDesk.png
   overlay_filter: 0.1
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-exerpt: "I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud  landscape. 
-By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud. "
+  exerpt: "I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud."
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
