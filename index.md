@@ -6,9 +6,9 @@ header:
   overlay_image: /assets/images/CleanDesk.png
   overlay_filter: 0.1
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  exerpt: "I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud."
-Intro: "My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and you can also regularly find me on the basketball court.
-For me the word **Code** represents coding in the broadest sense, from working with Infrastructure as Code (IaC) in the Cloud to home automation projects or working with AI."
+excerpt: "I'm Bouke Hoogenboom and would describe myself as a driven and athletic Azure Specialist who enjoys informing people about the Cloud landscape. By combining my technical knowledge with a practical perspective and determination, I aim to help people and organizations understand the Cloud."
+Intro: 
+ - excerpt: "My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and you can also regularly find me on the basketball court. For me the word **Code** represents coding in the broadest sense, from working with Infrastructure as Code (IaC) in the Cloud to home automation projects or working with AI."
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "run"
