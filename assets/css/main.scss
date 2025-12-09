@@ -12,3 +12,41 @@ search: false
 .feature__wrapper {
   border-bottom: none !important;
 }
+
+/* Feature image overlay styles */
+.feature-image-overlay {
+  position: relative;
+  
+  .feature-image-link {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    
+    &:hover .feature-overlay {
+      opacity: 1;
+    }
+  }
+  
+  .feature-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: $border-radius;
+  }
+  
+  .feature-overlay-text {
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+}

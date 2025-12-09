@@ -10,11 +10,14 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser feature-image-overlay">
             {% if f.url %}
-              <a href="{{ f.url | relative_url }}">
+              <a href="{{ f.url | relative_url }}" class="feature-image-link">
                 <img src="{{ f.image_path | relative_url }}"
                      alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                <div class="feature-overlay">
+                  <span class="feature-overlay-text">{{ f.title | default: f.btn_label | default: "Learn More" }}</span>
+                </div>
               </a>
             {% else %}
               <img src="{{ f.image_path | relative_url }}"
@@ -37,9 +40,7 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-          {% endif %}
+
         </div>
       </div>
     </div>
