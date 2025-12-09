@@ -11,20 +11,20 @@ Intro:
  - excerpt: "My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and you can also regularly find me on the basketball court. For me the word **Code** represents coding in the broadest sense, from working with Infrastructure as Code (IaC) in the Cloud to home automation projects or working with AI."
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
-  alt: "run"
-  title: "Run."
+  alt: "Run."
+  title: ""
   url: "/run/"
   btn_class: "btn--primary"
   btn_label: "Run."
 - image_path: /assets/images/Lift-500x300.jpg
-  alt: "lift"
-  title: "Lift."
+  alt: "Lift."
+  title: ""
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Lift."
 - image_path: /assets/images/Binary-Code-RLC-500x300.png
-  alt: "code"
-  title: "Code."
+  alt: "Code."
+  title: ""
   url: "/code/"
   btn_class: "btn--primary"
   btn_label: "Code."
@@ -40,5 +40,7 @@ I'd like to share my experiences and insights on this blog, hoping to inspire an
 **Have fun!**
 
 {% include feature_row id="intro" type="center" %}
+
+{% include figure popup=true image_path="/assets/images/Logo_Trans_300x400.png" alt="Run. Lift. Code." caption="" %}
 
 {% include feature_row %}
