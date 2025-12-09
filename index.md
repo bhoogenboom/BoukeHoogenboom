@@ -39,7 +39,7 @@ feature_row:
 
 {% include feature_row id="motto" type="center" %}
 
-{% include figure popup=true image_path="/assets/images/Logo_Trans_300x400.png" alt="Run. Lift. Code." caption="" %}
+{% include figure popup=FALSE image_path="/assets/images/Logo_Trans_300x400.png" alt="Run. Lift. Code." caption="" type="center" %}
 
 {% include feature_row %}
 
