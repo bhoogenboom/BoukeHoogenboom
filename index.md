@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 permalink: /
 title: "Home"
 header:
@@ -43,3 +43,11 @@ My motto **“Run. Lift. Code”** reflects my passion for running, fitness, and
 
 **Have fun!**
 {: style="text-align: center;"}
+
+<h3 class="archive__subtitle">Recent Posts</h3>
+
+{% assign posts = site.posts %}
+{% assign entries_layout = 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
