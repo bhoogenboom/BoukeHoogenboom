@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/CleanDesk.png
   overlay_filter: 0.1
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  excerpt: "test"
+excerpt: "test"
 feature_row:
 - image_path: /assets/images/BH-run-berg-teaser-500x300.jpg
   alt: "Run."
