@@ -1,6 +1,6 @@
 ---
 title: "Crededntials"
-layout: default
+layout: archive
 entries_layout: grid
 permalink: /creds/
 ---
@@ -10,15 +10,15 @@ permalink: /creds/
   <div style="text-align: left; margin: 1em 0;">
     <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" 
          alt="Azure Administrator Associate Certification" 
-         style="width: 100px; height: 100px; border-radius: 8px;">
+         style="width: 120px; height: 120px; border-radius: 8px;">
   </div>
 
 # Microsoft Certification
 
   <div style="text-align: left; margin: 1em 0;">
-    <img src="https://www.credly.com/badges/16b45119-f94c-4f52-b18f-54ac9efd2daf/public_url" 
-         alt="Azure Administrator Associate Certification" 
-         style="width: 100px; height: 100px; border-radius: 8px;">
+    <img src="https://images.credly.com/size/340x340/images/f8753948-4079-4503-98f0-92f45e0248cc/blob" 
+         alt="Microsoft Sovereign Cloud -​ Skilled" 
+         style="width: 120px; height: 120px; border-radius: 8px;">
   </div>
 
 
