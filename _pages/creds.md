@@ -7,10 +7,15 @@ permalink: /creds/
 
 # Azure Certification
 
-<div style="text-align: left; margin: 1em 0;">
-    <a href="https://www.credly.com/badges/447e79d8-0857-4c00-a0fd-4bb46a4bc83e" target="_blank" title="Azure Administrator">
+<div style="display: flex; gap: 20px; margin: 1em 0;">
+    <a href="https://www.credly.com/badges/447e79d8-0857-4c00-a0fd-4bb46a4bc83e" target="_blank" title="Azure Administrator Associate">
         <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
             alt="Azure Administrator Associate Certification" 
+            style="width: 180px; height: 180px; border-radius: 8px;">
+    </a>
+    <a href="#" target="_blank" title="Azure Solutions Architect Expert">
+        <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
+            alt="Azure Solutions Architect Expert Certification" 
             style="width: 180px; height: 180px; border-radius: 8px;">
     </a>
 </div>
