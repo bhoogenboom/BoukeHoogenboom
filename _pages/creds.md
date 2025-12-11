@@ -13,11 +13,11 @@ permalink: /creds/
             alt="Azure Administrator Associate Certification" 
             style="width: 180px; height: 180px; border-radius: 8px;">
     </a>
-    <a href="#" target="_blank" title="Azure Solutions Architect Expert">
+    <!-- <a href="#" target="_blank" title="Azure Solutions Architect Expert">
         <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
             alt="Azure Solutions Architect Expert Certification" 
             style="width: 180px; height: 180px; border-radius: 8px;">
-    </a>
+    </a> -->
 </div>
 
 # Microsoft Certification
