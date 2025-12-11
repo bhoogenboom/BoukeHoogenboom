@@ -2,10 +2,17 @@
 layout: default
 ---
 
+<!-- DEBUG: Checking header conditions -->
+<!-- DEBUG: overlay_color = {{ page.header.overlay_color }} -->
+<!-- DEBUG: overlay_image = {{ page.header.overlay_image }} -->
+<!-- DEBUG: image = {{ page.header.image }} -->
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  <!-- DEBUG: Hero condition met, including page__hero.html -->
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
+{% else %}
+  <!-- DEBUG: No header conditions met -->
 {% endif %}
 
 <div id="main" role="main">
