@@ -45,7 +45,9 @@
       {% endif %}
     </div>
   {% else %}
-    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+    <!-- DEBUG: Regular header image should appear here -->
+    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image" style="border: 5px solid red; display: block !important;">
+    <!-- DEBUG: Image path is {{ page.header.image }} -->
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
