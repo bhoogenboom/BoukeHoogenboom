@@ -121,6 +121,9 @@ author:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/7759071"
+    - label: "Creds"
+      icon: "fas fa-fw fa-link"
+      url: "https://Boukehoogenboom.nl/creds/"
 
 # Site Footer
 footer:

@@ -5,8 +5,17 @@
     </a>
   </li>
 -->
-  <div style="text-align: left; margin: 1em 0;">
+{% if author.creds %}
+  <li>
+    <a href="{{ author.creds }}" itemprop="url" rel="me">
+      <i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</span>
+    </a>
+  </li>
+{% endif %}  
+
+<div style="text-align: left; margin: 1em 0;">
     <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" 
          alt="Azure Administrator Associate Certification" 
          style="width: 100px; height: 100px; border-radius: 8px;">
   </div>
+
