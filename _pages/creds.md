@@ -3,6 +3,7 @@ title: "Credentials"
 layout: archive
 entries_layout: grid
 permalink: /creds/
+author_profile: true
 ---
 
 # Azure Certification
