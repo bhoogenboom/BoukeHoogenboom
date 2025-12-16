@@ -4,6 +4,8 @@ layout: archive
 entries_layout: grid
 permalink: /creds/
 author_profile: true
+header:
+  overlay_image: /assets/images/skillz-code.jpg
 ---
 
 # Azure Certification
