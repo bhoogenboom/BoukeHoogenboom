@@ -1,5 +1,5 @@
 ---
-title:  "Azure Migrate and CMK: Secure Migrations from Day One."
+title:  "Azure Migrate + CMK: Secure Migrations from Day One."
 category: code
 collection: code
 tags: AzureMigrate CMK Encryption Security
