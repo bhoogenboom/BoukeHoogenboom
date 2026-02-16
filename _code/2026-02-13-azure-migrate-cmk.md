@@ -8,16 +8,16 @@ header:
 ---
 
 ### Introduction and Point-of-view.
-As a Cloud Consultant, I help organizations transition to the cloud on a daily basis. A question that comes up more and more often — especially in regulated industries like healthcare, finance, and government — is: "How do we make sure our data is encrypted with our own keys, right from the start?"
+As a Cloud Consultant, I help organizations transition to the cloud on a daily basis. A question that comes up more and more often, especially in regulated industries like healthcare, finance, and government, is: "How do we make sure our data is encrypted with our own keys, right from the start?"
 
-This is a valid concern. By default, Azure encrypts all managed disk data at rest using **Platform Managed Keys** (PMK). Microsoft manages these keys on your behalf, which is perfectly secure in most scenarios. But for organizations with strict compliance requirements, this is simply not enough. Enter **Customer Managed Keys** (CMK) — and the good news is that Azure Migrate now supports migrating VMs directly to a CMK-encrypted configuration, so you don't have to choose between speed and security.
+This is a valid concern. By default, Azure encrypts all managed disk data at rest using **Platform Managed Keys** (PMK). Microsoft manages these keys on your behalf, which is perfectly secure in most scenarios. But for organizations with strict compliance requirements, this is simply not enough. Enter **Customer Managed Keys** (CMK). The good news is that Azure Migrate now supports migrating VMs directly to a CMK-encrypted configuration, so you don't have to choose between speed and security.
 
 ### What is the difference between PMK and CMK?
 Before diving into the migration process, it's worth understanding what we are actually talking about.
 
-With **Platform Managed Keys**, Azure handles the entire encryption key lifecycle. Microsoft generates, stores, rotates, and manages the keys used to encrypt your data. You don't have to think about it — and that is exactly the problem for some organizations.
+With **Platform Managed Keys**, Azure handles the entire encryption key lifecycle. Microsoft generates, stores, rotates, and manages the keys used to encrypt your data. You don't have to think about it, and that is exactly the problem for some organizations.
 
-With **Customer Managed Keys**, you bring your own key stored in **Azure Key Vault**. You are in full control: you decide when to rotate, who has access, and what happens when a key is revoked. If you revoke access to your key, VMs encrypted with that key will stop functioning — which is a powerful lever in a security or compliance incident. Think of it as the difference between renting a safety deposit box where the bank holds a master key versus one where only you have the key.
+With **Customer Managed Keys**, you bring your own key stored in **Azure Key Vault**. You are in full control: you decide when to rotate, who has access, and what happens when a key is revoked. If you revoke access to your key, VMs encrypted with that key will stop functioning, which is a powerful lever in a security or compliance incident. Think of it as the difference between renting a safety deposit box where the bank holds a master key versus one where only you have the key.
 
 >For organizations subject to regulations like ISO 27001, NEN 7510, or GDPR, CMK is often not just a preference but a hard requirement. The ability to demonstrate full control over your encryption keys is increasingly expected by auditors.
 
