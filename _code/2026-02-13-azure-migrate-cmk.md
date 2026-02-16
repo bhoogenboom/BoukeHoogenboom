@@ -24,21 +24,21 @@ With **Customer Managed Keys**, you bring your own key stored in **Azure Key Vau
 This is where the integration between **Azure Migrate** and CMK becomes particularly powerful.
 
 ### How does it work in Azure Migrate?
-The **Migration and modernization** tool within Azure Migrate supports agentless replication of VMware VMs to Azure with CMK-encrypted disks. The portal experience itself supports the Disk Encryption Set (DES) / CMK configuration, meaning you can set this up from the Azure Portal without writing a single line of PowerShell — though the ARM template approach remains available for more advanced scenarios.
+The **Migration and modernization** tool within Azure Migrate supports agentless replication of VMware VMs to Azure with CMK-encrypted disks. The portal experience itself supports the Disk Encryption Set (DES) / CMK configuration, meaning you can set this up from the Azure Portal without writing a single line of PowerShell, though the ARM template approach remains available for more advanced scenarios.
 
 There are a few things to understand before you start:
 
-* **Disk Encryption Set (DES):** This is the Azure object that links your managed disks to the Key Vault containing your CMK. You need to create this before starting replication — it cannot be applied at the time of migration, only at the start of replication.
+* **Disk Encryption Set (DES):** This is the Azure object that links your managed disks to the Key Vault containing your CMK. You need to create this before starting replication. It cannot be applied at the time of migration, only at the start of replication.
 * **Azure Key Vault:** Your CMK must be stored here (or in Azure Key Vault Managed HSM for HSM-protected keys). Soft delete and purge protection must be enabled on the Key Vault.
-* **Double encryption:** You can optionally configure the DES for double encryption — layering a customer-managed key on top of the default platform-managed key — for the highest possible level of compliance assurance.
+* **Double encryption:** You can optionally configure the DES for double encryption, layering a customer-managed key on top of the default platform-managed key, for the highest possible level of compliance assurance.
 
 The migration process then uses server-side encryption (SSE) to encrypt the replicated managed disks as they land in Azure. The data travels over HTTPS with TLS 1.2 or later, and the moment those disks are written, they are encrypted using your CMK.
 
 ### What I have learned.
-Security and migration are often treated as sequential steps — first migrate, then secure. This approach creates a window of risk that is hard to justify to an auditor or a CISO. The ability to configure CMK directly within the Azure Migrate replication flow closes that gap.
+Security and migration are often treated as sequential steps: first migrate, then secure. This approach creates a window of risk that is hard to justify to an auditor or a CISO. The ability to configure CMK directly within the Azure Migrate replication flow closes that gap.
 
-The most important lesson I take from this in practice: **prepare your Key Vault and Disk Encryption Set before you start the project.** It sounds obvious, but the DES must exist and be correctly configured before replication begins. A last-minute scramble to get the right permissions in place — especially in environments with strict RBAC policies — can delay a migration significantly.
+The most important lesson I take from this in practice: **prepare your Key Vault and Disk Encryption Set before you start the project.** It sounds obvious, but the DES must exist and be correctly configured before replication begins. A last-minute scramble to get the right permissions in place, especially in environments with strict RBAC policies, can delay a migration significantly.
 
 Another thing worth noting is that Azure Disk Encryption (ADE), which uses BitLocker or dm-crypt at the OS level, is a different feature and the two are not interchangeable. If a VM is currently protected with ADE, it cannot be directly migrated to SSE with CMK. In those cases, you will need to plan accordingly.
 
-The bottom line: with CMK support in Azure Migrate, there is no longer a reason to make a trade-off between migration speed and encryption compliance. Done right, your workloads land in Azure already secured under your own keys — from day one.
+The bottom line: with CMK support in Azure Migrate, there is no longer a reason to make a trade-off between migration speed and encryption compliance. Done right, your workloads land in Azure already secured under your own keys from day one.
