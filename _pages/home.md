@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /home/
+collection: code
 title: ""
 header:
   overlay_image: /assets/images/Logo_Trans_Trimmed.png

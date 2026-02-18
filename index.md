@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: /
+collection: code
 title: "Home"
 classes: wide
 header:

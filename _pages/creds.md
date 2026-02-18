@@ -27,7 +27,7 @@ header:
 
 <div style="text-align: left; margin: 1em 0;">
     <a href="https://www.credly.com/badges/16b45119-f94c-4f52-b18f-54ac9efd2daf" target="_blank" title="Microsoft Sovereign Cloud - Skilled">
-      <img src="https://images.credly.com/size/340x340/images/f8753948-4079-4503-98f0-92f45e0248cc/blob" 
+      <img src="https://images.credly.com/size/340x340/images/90fc4636-beff-43a4-8f65-8e80f9cc1b4f/blob" 
            alt="Microsoft Sovereign Cloud -​ Skilled" 
            style="width: 180px; height: 180px; border-radius: 8px;">
     </a>
