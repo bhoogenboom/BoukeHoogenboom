@@ -21,7 +21,7 @@ layout: default
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = site.posts %}
+  {% assign all_posts = site.posts | concat: site.code | concat: site.run | concat: site.lift %}
 {% endif %}
 
       {% assign entries_layout = page.entries_layout | default: 'list' %}
