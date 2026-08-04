@@ -9,7 +9,7 @@ related: true
 related_by: categories tags
 author_profile: true
 header:
-  overlay_image: /assets/images/BH-run-berg-teaser.jpg
+  overlay_image: /assets/images/run-sunrise.jpg
 ---
 
 # I Love to run!
