@@ -1,12 +1,12 @@
 ---
-title:  "Holiday Run"
+title:  "Morning Run @ Soulac-sur-mer"
 collection: run
 tag: Run
 header:
   teaser: "/assets/images/BH-run-berg-teaser-500x300.jpg"
 ---
 
-A run to explore some new roads while on holiday.
+Na eerste temperatuur drop van ruim 10 graden mij er maar even aan gewaagd 😅
 
 {% include strava.html id="19291169176" %}
 
