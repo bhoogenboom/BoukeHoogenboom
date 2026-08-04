@@ -30,11 +30,8 @@ When I was enlisted with the Dutch Army I ran quite a bit as you can imagine. Al
 |16,2K-10EM|00:00:00|00-00-0000|
 |21,1K-Half Marathon|01:42:05|08-06-2024
 
-### Recent runs
+### Follow along
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7759071/latest-rides/9ef32ac248ca7e9276c69e06a059740f6a95969d'></iframe>
+Want to see my latest runs and training? Follow me on Strava.
 
-### This week
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7759071/activity-summary/9ef32ac248ca7e9276c69e06a059740f6a95969d'></iframe>
----
+[Follow on Strava](https://www.strava.com/athletes/7759071){: .btn .btn--primary}
