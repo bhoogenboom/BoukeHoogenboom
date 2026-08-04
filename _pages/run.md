@@ -25,10 +25,10 @@ When I was enlisted with the Dutch Army I ran quite a bit as you can imagine. Al
 |Distance|Time|Date|
 |-|-|-|
 |4,6K-4EM|00:29:42|12-10-2025|
-|5K |00:00:00|00-00-0000|
-|8K Cross|00:00:00|00-00-0000|
-|16,2K-10EM|00:00:00|00-00-0000|
-|21,1K-Half Marathon|01:42:05|08-06-2024
+|5K|—|—|
+|8K Cross|—|—|
+|16,2K-10EM|—|—|
+|21,1K-Half Marathon|01:42:05|08-06-2024|
 
 ### Follow along
 
