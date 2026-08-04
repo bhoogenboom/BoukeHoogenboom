@@ -14,7 +14,7 @@ header:
 
 # I Love to run!
 
-Upcomming Run's being the 'Station-to-Station' run between the train station in Ommen and Dalfsen. This run is 10 EM (16,1 KM) at the 31ste of May and just more then a week later my first 'Half Marathon - Zwolle' on the 10th of June. So at the moment I'm training three to four times a week to expand my Aerobic Base.
+I'm currently training three to four times a week to expand my aerobic base and build toward my next race. My focus is on steady progress over distances from 5K up to the half marathon, mixing easy base runs with the occasional race to test my form.
 
 ### Running history
 
@@ -30,7 +30,7 @@ When I was enlisted with the Dutch Army I ran quite a bit as you can imagine. Al
 |16,2K-10EM|00:00:00|00-00-0000|
 |21,1K-Half Marathon|01:42:05|08-06-2024
 
-### Recent run's
+### Recent runs
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/7759071/latest-rides/9ef32ac248ca7e9276c69e06a059740f6a95969d'></iframe>
 

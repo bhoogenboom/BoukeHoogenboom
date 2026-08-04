@@ -1,5 +1,6 @@
 ---
 title:  "Azure Landing Zones, Tailored with Archetypes for your organization's needs."
+excerpt: "How the Cloud Adoption Framework and landing zone archetypes let you build a secure, modular, future-proof Azure foundation tailored to your organization."
 collection: code
 tags: LandingZone Archetypes
 header:
