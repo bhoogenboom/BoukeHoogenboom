@@ -4,7 +4,7 @@ excerpt: "How the Cloud Adoption Framework and landing zone archetypes let you b
 collection: code
 tags: LandingZone Archetypes
 header:
-  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
+  teaser: "/assets/images/azure-landing-zones-500x300.png"
 ---
 
 ### Introduction and Point-of-view.
