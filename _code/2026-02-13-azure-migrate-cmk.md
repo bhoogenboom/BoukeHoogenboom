@@ -1,5 +1,6 @@
 ---
 title:  "Azure Migrate + CMK: Secure Migrations from Day One."
+excerpt: "Migrate Azure VMs straight to Customer Managed Key (CMK) encrypted disks, so compliance-heavy workloads stay encrypted with your own keys from the very first migration."
 category: code
 collection: code
 tags: AzureMigrate CMK Encryption Security
