@@ -6,4 +6,8 @@ header:
   teaser: "/assets/images/BH-run-berg-teaser-500x300.jpg"
 ---
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11606538881" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+My first half marathon: the Halve Marathon van Zwolle, finished in **01:42:05** on 8 June 2024.
+
+{% include strava.html id="11606538881" %}
+
+[View the activity on Strava](https://www.strava.com/activities/11606538881){: .btn .btn--primary}
