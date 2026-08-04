@@ -1,0 +1,19 @@
+{% comment %}
+  Embeds a public Strava activity using Strava's official embed script
+  (no API key required).
+
+  Usage:
+    {% include strava.html id="1234567890" %}
+
+  Optional parameters:
+    type  - embed type (default: "activity")
+    style - embed style: "standard" or "minimal" (default: "standard")
+
+  Find the id in the activity URL: strava.com/activities/<id>
+{% endcomment %}
+<div class="strava-embed-placeholder"
+     data-embed-type="{{ include.type | default: 'activity' }}"
+     data-embed-id="{{ include.id }}"
+     data-style="{{ include.style | default: 'standard' }}"
+     data-from-embed="false"></div>
+<script src="https://strava-embeds.com/embed.js"></script>

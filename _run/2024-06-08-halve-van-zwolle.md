@@ -8,4 +8,6 @@ header:
 
 My first half marathon: the Halve Marathon van Zwolle, finished in **01:42:05** on 8 June 2024.
 
+{% include strava.html id="11606538881" %}
+
 [View the activity on Strava](https://www.strava.com/activities/11606538881){: .btn .btn--primary}
