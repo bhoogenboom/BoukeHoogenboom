@@ -5,7 +5,7 @@ category: code
 collection: code
 tags: AzureMigrate CMK Encryption Security
 header:
-  teaser: "/assets/images/Binary-Code-RLC-500x300.png"
+  teaser: "/assets/images/azure-migrate-cmk-500x300.png"
 ---
 
 ### Introduction and Point-of-view.
