@@ -20,7 +20,7 @@ feature_row:
   url: "/lift/"
   btn_class: "btn--primary"
   btn_label: "Lift."
-- image_path: /assets/images/Binary-Code-RLC-500x300.png
+- image_path: /assets/images/code-keyboard-500x300.jpg
   alt: "Code."
   title: ""
   url: "/code/"

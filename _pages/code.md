@@ -9,6 +9,6 @@ related: true
 related_by: categories tags
 author_profile: true
 header:
-  overlay_image: /assets/images/code-teaser.jpg
+  overlay_image: /assets/images/code-keyboard.jpg
 ---
 
