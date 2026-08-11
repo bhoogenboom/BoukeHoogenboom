@@ -9,7 +9,7 @@ related: true
 related_by: categories tags
 author_profile: true
 header:
-  overlay_image: /assets/images/run-sunrise.jpg
+  overlay_image: /assets/images/run-stride.jpg
 ---
 
 # I Love to run!
